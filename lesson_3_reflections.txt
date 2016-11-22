@@ -1,1 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
+  I would always use a remote repository for the following reason:
+  1. Secured: I never know when my hard drive will stop working, if that happened, I would at least have a working version on the network.
+  2. Collaborate: I could work with other developer simultaneously.
