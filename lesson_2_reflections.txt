@@ -4,5 +4,8 @@ How is the staging area different from the working directory and the repository?
     The staging area is a transit space for us to prepare files to be commited to repository. It is useful when we are going to commit multiple files in a single commit.
 How can you use the staging area to make sure you have one commit per logical change?
     Before committing to the repository, check if the staging area contains the files are related in one logical change. If not, we need to seperate them into 2 or combine more files to 1 commit.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    The situations might include trying out new tools, adding drastically different functions, refactoring, or testing out coworker's idea. 
+    Branches can keep all of those changes organized rather than chaos.
 
     
